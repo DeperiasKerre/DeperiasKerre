@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Deperias Kerre
 - 👀 I’m interested in learning how to use github for version control and code processing
-- 🌱 I’m currently learning how to develop NLP models
 - 💞️ I’m looking forward to collaborate on Text and Data Mining Models
 - 📫 How to reach me dkmasinde@gmail.com
 
